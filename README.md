@@ -6,11 +6,11 @@
 
 Demonstration of the English page 
 
-<img src="https://github.com/tayhsn/www_html/blob/main/img/demo-en.png" width:"75%"/>
+<img src="https://github.com/tayhsn/www_html/blob/main/img/demo-en.png" />
 
 Demonstration of the Portuguese page
 
-<img src="https://github.com/tayhsn/www_html/blob/main/img/demo-pt.png" width:"75%"/>
+<img src="https://github.com/tayhsn/www_html/blob/main/img/demo-pt.png" />
 
 That was the sketch
 
