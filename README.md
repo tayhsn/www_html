@@ -6,12 +6,12 @@
 
 Demonstration of the English page 
 
-<img src="https://github.com/tayhsn/www_html/blob/main/img/demo-en.png" />
+<img src="https://github.com/tayhsn/www_html/blob/main/img/demo-en.png" width:"75%"/>
 
 Demonstration of the Portuguese page
 
-<img src="https://github.com/tayhsn/www_html/blob/main/img/demo-pt.png" />
+<img src="https://github.com/tayhsn/www_html/blob/main/img/demo-pt.png" width:"75%"/>
 
 That was the sketch
 
-<img src="https://github.com/tayhsn/www_html/blob/main/img/esboco.png" />
+<img src="https://github.com/tayhsn/www_html/blob/main/img/z_esboco.png" />
